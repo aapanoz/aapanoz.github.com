@@ -61,7 +61,7 @@ links.forEach(function(link){
     //Pone un delay en la salida para poder visualizar
     setTimeout(function(){
       //redirecciona
-      location.href = "/";
+      location.href = "/Project_Boletines";
     },600);
     //setInterval
 
